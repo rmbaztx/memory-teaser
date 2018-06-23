@@ -1,0 +1,19 @@
+{
+  "name": "memory-teaser",
+  "version": "1.0.0",
+  "description": "Card-picking memory game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmbaztx/memory-teaser.git"
+  },
+  "author": "rmb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmbaztx/memory-teaser/issues"
+  },
+  "homepage": "https://github.com/rmbaztx/memory-teaser#readme"
+}
